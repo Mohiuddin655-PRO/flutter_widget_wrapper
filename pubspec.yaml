@@ -1,6 +1,6 @@
 name: flutter_widget_wrapper
 description: This is a flutter widget measurement widget and notify current size
-version: 0.0.1
+version: 1.0.1
 repository: https://github.com/Mohiuddin655-PRO/flutter_widget_wrapper.git
 
 environment:
